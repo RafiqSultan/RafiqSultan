@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rafiq Sultan</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75151&background=1BFFFD00&lines=I'M+a+Full+Stack+Web+Developer)](https://git.io/typing-svg)
-
+<h1 align="center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1FD5F7&background=1BFFFD00&lines=I'M+a+Full+Stack+Web+Developer)](https://git.io/typing-svg)
+</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafiqsultan&label=Profile%20views&color=0e75b6&style=flat" alt="rafiqsultan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafiqsultan" alt="rafiqsultan" /></a> </p>
