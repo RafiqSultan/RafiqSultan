@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafiq Sultan</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?background=1BFFFD00&lines=I'M+a+Full+Stack+Web+Developer)](https://git.io/typing-svg)
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75151&background=1BFFFD00&lines=I'M+a+Full+Stack+Web+Developer)](https://git.io/typing-svg) </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafiqsultan&label=Profile%20views&color=0e75b6&style=flat" alt="rafiqsultan" /> </p>
 
