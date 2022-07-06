@@ -22,4 +22,4 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafiqsultan&theme=dark" alt="rafiqsultan" /></p>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafiqsultan&theme=default)
+
