@@ -18,7 +18,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafiqsultan&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="rafiqsultan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafiqsultan&show_icons=true&theme=tokyonight&title_color=00f1f5&locale=en" alt="rafiqsultan" /></p>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafiqaasultan&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=tokyonight)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafiqsultan&theme=dark" alt="rafiqsultan" /></p>
 
