@@ -21,7 +21,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafiqsultan&show_icons=true&theme=tokyonight&locale=en" alt="rafiqsultan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafiqsultan&theme=dark" alt="rafiqsultan" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafiqsultan&theme=dark" alt="rafiqsultan" /></p> -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rafiqsultan&theme=great-gatsby)](https://git.io/streak-stats)
 
