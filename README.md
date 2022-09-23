@@ -21,7 +21,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafiqsultan&show_icons=true&theme=tokyonight&locale=en" alt="rafiqsultan" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafiqsultan&theme=dark" alt="rafiqsultan" /></p> -->
 
