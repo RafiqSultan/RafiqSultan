@@ -20,7 +20,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafiqsultan&show_icons=true&theme=dracula&locale=en&layout=compact" alt="rafiqsultan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafiqsultan&show_icons=true&theme=tokyonight&locale=en" alt="rafiqsultan" /></p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafiqsultan&theme=dark" alt="rafiqsultan" /></p> -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rafiqsultan&theme=great-gatsby)](https://git.io/streak-stats)
