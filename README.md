@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafiq Sultan</h1>
 <h3 align="center">I'm a UI/UX and frontend developer</h3>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+UI+%2F+Ux+Designer+;%26+front+end+developer;Quick+fox+jumps+nightly+above+wizard)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafiqsultan&label=Profile%20views&color=0e75b6&style=flat" alt="rafiqsultan" /> </p>
 
